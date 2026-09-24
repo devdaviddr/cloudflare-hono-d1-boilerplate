@@ -1,6 +1,6 @@
-# Fullstack Cloudflare Todo App
+# Cloudflare Hono D1 Boilerplate
 
-A production-ready todo application built with React, TypeScript, and Cloudflare's edge infrastructure. Features Firebase authentication, real-time updates, and serverless deployment.
+A full-stack starter, shipped as a production-ready todo application, built with React, TypeScript, and Cloudflare's edge infrastructure. Features Firebase authentication, real-time updates, and serverless deployment.
 
 **Tech Stack:** React + Vite, Hono on Cloudflare Workers, D1 Database, Firebase Auth, Turborepo
 
@@ -16,7 +16,7 @@ A production-ready todo application built with React, TypeScript, and Cloudflare
 1. **Clone and install:**
    ```bash
    git clone <your-repo-url>
-   cd fullstack-cloudflare-boilerplate
+   cd cloudflare-hono-d1-boilerplate
    pnpm install
    ```
 
@@ -45,7 +45,7 @@ A production-ready todo application built with React, TypeScript, and Cloudflare
 ## 📁 Project Structure
 
 ```
-fullstack-cloudflare-boilerplate/
+cloudflare-hono-d1-boilerplate/
 ├── apps/
 │   ├── frontend/          # React SPA (Cloudflare Pages)
 │   │   ├── src/
